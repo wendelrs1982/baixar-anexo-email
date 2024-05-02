@@ -1,0 +1,5 @@
+Para baixar um anexo de um e-mail com um título específico e pela data mais atual usando Python, você pode usar a biblioteca imaplib para acessar a caixa de entrada do seu e-mail.
+
+Certifique-se de substituir 'seu_email@gmail.com', 'sua_senha' e 'TÍTULO_DO_EMAIL' pelas suas credenciais de e-mail e pelo título do e-mail que você deseja buscar.
+
+Além disso, ajuste a data em SINCE "01-May-2024" para a data desejada no formato "DD-MMM-AAAA". Este exemplo busca e-mails desde 1º de maio de 2024.
